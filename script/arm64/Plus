@@ -76,7 +76,7 @@ otimize_python() {
     update-alternatives --set python3 /usr/bin/python3.6
 }
 figlet "SSH-PLUS" | lolcat
-echo "SCRIPT EM DESENVOLVIMENTO 😃 !!"
+echo "SCRIPT EM DESENVOLVIMENTO !!"
 echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
 echo ""
 echo ""
@@ -123,7 +123,7 @@ echo -e "\n\033[1;36mVERIFICANDO LINK... \033[0m" ; rm $_Ink/listARM >/dev/null 
     [[ -f "$HOME/usuarios.db" ]] && {
         clear
         figlet "SSH-PLUS" | lolcat
-        echo "SCRIPT EM DESENVOLVIMENTO 😃!!" 
+        echo "SCRIPT EM DESENVOLVIMENTO !!" 
         echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
         echo -e "\033[1;33mOPA DETECTAMOS..."
         echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
@@ -212,7 +212,7 @@ echo -e "\n\033[1;36mVERIFICANDO LINK... \033[0m" ; rm $_Ink/listARM >/dev/null 
     echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
     echo 'echo -e " HORA : $TIME"' >>/root/.bashrc
-    echo 'echo -e "@ALFAINTERNET"' >>.bashrc
+    echo 'echo -e "@DANIELMTX"' >>.bashrc
     echo 'echo -e "\033[1;31m DIGITE ( menu ) PARA ENTRAR\033[0m."' >>/root/.bashrc
     echo 'echo -e ""' >>/root/.bashrc
     date=$(date '+%Y-%m-%d <> %H:%M:%S')
