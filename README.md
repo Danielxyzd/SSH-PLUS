@@ -1,4 +1,4 @@
-# BEM VINDO 🖕
+# BEM VINDO 😏
 
 # SSH-PLUS
 
@@ -6,9 +6,9 @@
 
 *PROJETO EM ANDAMENTO...
 
+# SCRIPT COM KEY 
 
 # Modo de instalação
-# 👇👽👍
 Só joga na máquina e deixar instalar
 
 • atualiza sistema
