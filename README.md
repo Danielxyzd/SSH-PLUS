@@ -6,6 +6,7 @@
 
 *PROJETO EM ANDAMENTO...
 
+# 16/10/2022
 
 # Modo de instalação
 Só joga na máquina e deixar instalar
