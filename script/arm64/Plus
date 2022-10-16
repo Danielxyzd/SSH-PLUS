@@ -75,7 +75,7 @@ otimize_python() {
     #SETAR PYTHON3
     update-alternatives --set python3 /usr/bin/python3.6
 }
-figlet "⇱ SSHPLUS MANAGER ⇲" | lolcat
+figlet "SSHPLUS MANAGER" | lolcat
 echo "SCRIPT EM DESENVOLVIMENTO !!"
 echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
 echo ""
@@ -122,7 +122,7 @@ echo -e "\n\033[1;36mVERIFICANDO LINK... \033[0m" ; rm $_Ink/listARM >/dev/null 
     echo ""
     [[ -f "$HOME/usuarios.db" ]] && {
         clear
-        figlet "⇱ SSHPLUS MANAGER ⇲" | lolcat
+        figlet "SSHPLUS MANAGER" | lolcat
         echo "SCRIPT EM DESENVOLVIMENTO !!" 
         echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
         echo -e "\033[1;33mOPA DETECTAMOS..."
